@@ -34,7 +34,7 @@ Course Requirements
 
 Work for the semester will be evaluated in four ways: participation in class discsussion (15% of final grade); a journal, to be turned in weekly via email (15%); proposal for digital story on Camfield Estates (10%); digital story on Camfield Estates (30%); personal digital story (30%). There will be no final exam. Ongoing work and final projects will be posted online. It is very important to submit assignments on time, including weekly journals, since class discussion and labs are based on student work. There will be no extensions without prior, written, consent of the instructors. Late submissions will receive a reduction in grade.
 
-Prior experience with Adobe Photoshop and Adobe Premiere is not a prerequisite for this class. While labs do include an introduction to the skills needed for the class, you are responsible for preparing for labs beforehand by working through relevant sections of _The Digital Storytelling Cookbook_ ([http://www.storycenter.org/](http://www.storycenter.org/)) and getting as far as you can on your own. After the first few classes, the labs will serve primarily as trouble-shooting sessions supporting the ongoing work of the class.
+Prior experience with Adobe Photoshop and Adobe Premiere is not a prerequisite for this class. While labs do include an introduction to the skills needed for the class, you are responsible for preparing for labs beforehand by working through relevant sections of _The Digital Storytelling Cookbook_ ({{% resource_link "2b5cd25a-1cde-47ec-831a-84d0e62ae7ba" "http://www.storycenter.org/" %}}) and getting as far as you can on your own. After the first few classes, the labs will serve primarily as trouble-shooting sessions supporting the ongoing work of the class.
 
 Students are responsible for completing the required reading prior to class on the relevant date.
 
@@ -71,7 +71,7 @@ Presentation: The Power of Digital Storytelling
 
 Lab: Overview of Premiere and file management
 
-Reading: Digital Storytelling Cookbook ([http://www.storycenter.org/](http://www.storycenter.org/)); review entire text; at the minimum, read pp. 1-24.
+Reading: Digital Storytelling Cookbook ({{% resource_link "2b5cd25a-1cde-47ec-831a-84d0e62ae7ba" "http://www.storycenter.org/" %}}); review entire text; at the minimum, read pp. 1-24.
 
 Next Week's Assignment: What do you hope to offer communities as a designer/planner?
 
@@ -104,7 +104,7 @@ Presentation: Storyboards: integrating words and images
 
 Lab: Photoshop, image scanning, file management
 
-Reading: Digital Storytelling Cookbook ([http://www.storycenter.org/](http://www.storycenter.org/)); review pp. 25-39. You might find it helpful to bring a copy to class.
+Reading: Digital Storytelling Cookbook ({{% resource_link "2b5cd25a-1cde-47ec-831a-84d0e62ae7ba" "http://www.storycenter.org/" %}}); review pp. 25-39. You might find it helpful to bring a copy to class.
 
 Due in Class: First draft of story on being a designer/planner. Bring text to class (the equivalent of a 3-minute script) and at least one image suitable for scanning.
 
