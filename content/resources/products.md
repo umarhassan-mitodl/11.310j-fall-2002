@@ -4,6 +4,8 @@ description: Description of an assignment.
 file: /courses/11-310j-media-technology-and-city-design-and-development-fall-2002/c991a0aaf84af27e124a7f92c9331f82_products.pdf
 file_size: 28995
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
