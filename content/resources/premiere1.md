@@ -4,8 +4,6 @@ description: Tutorial on using Adobe Premiere.
 file: /courses/11-310j-media-technology-and-city-design-and-development-fall-2002/faa4c0f313632bbcbbf06c6699618c40_premiere1.pdf
 file_size: 509418
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tutorials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Background information on Camfield Estates, provided for a project.
 file: /courses/11-310j-media-technology-and-city-design-and-development-fall-2002/8ffda285072bd387169f1f8f691dbab1_background.pdf
 file_size: 35693
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
